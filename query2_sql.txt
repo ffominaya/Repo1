@@ -2,3 +2,4 @@ select count(1)
 from dbc.columnsv
 ;
 -- New line on Monday
+New line testing on June 9th
